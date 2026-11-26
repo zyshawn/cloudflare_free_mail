@@ -8,7 +8,7 @@ keep_vars=true
 [[d1_databases]]
 binding = "TEMP_MAIL_DB"
 database_name = "mail_free_db" #你的d1数据库名称
-database_id = "b6711963-dd4b-4071-a531-512317880c19" # 你的database_id
+database_id = "a6f6569d-abe8-4c33-9fa9-fa427950e7e1" # 你的database_id
 # 登录会话过期时间（单位：天，默认7天）
 # 环境变量
 [vars]
@@ -16,7 +16,7 @@ database_id = "b6711963-dd4b-4071-a531-512317880c19" # 你的database_id
 ADMIN_NAME=""
 ADMIN_PASSWORD=""
 GUEST_PASSWORD="guest"
-JWT_TOKEN="dfvhluhdaslufhvdv"
+JWT_TOKEN="pN6mdROWXMANiXdtkU95ZRliMKkbngWaK6ZGzxyFR1Aw4BPH8JGRt26GMtEhoJ3m"
 JWT_TOKENGUEST_PASSWORD="dfsfsfxzcv"
 SESSION_EXPIRE_DAYS="365"
 MAIL_DOMAIN="你的域名列表"
